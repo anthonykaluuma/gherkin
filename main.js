@@ -91,7 +91,7 @@ Suite.prototype.run = function(text) {
           });
 
           // scenario.and.forEach(function(a) {
-          //   it('Then ' + a, suite.resolveAnd(a));
+          //   it('And ' + a, suite.resolveAnd(a));
           // });
         });
       });
