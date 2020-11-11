@@ -12,7 +12,7 @@ This repo is a learning ground for Gherkin:
 
 `npm install`
 
-`nm test`
+`npm test`
 
 ## How to use
 
