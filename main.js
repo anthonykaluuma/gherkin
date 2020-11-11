@@ -58,7 +58,6 @@ Suite.prototype.resolveThen = function(text) {
   return this.resolve(this._then, text);
 };
 
-
 // Suite.prototype.and = function(r, f) {
 //   this._and.push({
 //     r: r,
