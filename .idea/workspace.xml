@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0de87707-206b-43df-a74b-17a7ed2ffb79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/gherkin.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k8pPSEtjMJFbzK6SYivJ5ipnUh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Mocha.gherkin().should call the handler functions for each line">
+    <configuration name="gherkin()" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/gherkin.js</test-file>
+      <test-names>
+        <name value="gherkin()" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="gherkin().should call the handler functions for each line" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/gherkin.js</test-file>
+      <test-names>
+        <name value="gherkin()" />
+        <name value="should call the handler functions for each line" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="gherkin.parser(text)" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/parser.js</test-file>
+      <test-names>
+        <name value="gherkin.parser(text)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="gherkin.parser(text).should parse a buffer" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/parser.js</test-file>
+      <test-names>
+        <name value="gherkin.parser(text)" />
+        <name value="should parse a buffer" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should parse a buffer" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/parser.js</test-file>
+      <test-names>
+        <name value="should parse a buffer" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.gherkin().should call the handler functions for each line" />
+        <item itemvalue="Mocha.gherkin.parser(text)" />
+        <item itemvalue="Mocha.gherkin()" />
+        <item itemvalue="Mocha.should parse a buffer" />
+        <item itemvalue="Mocha.gherkin.parser(text).should parse a buffer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0de87707-206b-43df-a74b-17a7ed2ffb79" name="Default Changelist" comment="" />
+      <created>1605092048960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605092048960</updated>
+      <workItem from="1605092049990" duration="2010000" />
+      <workItem from="1605094190665" duration="5847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1703" y="108" width="1592" height="868" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605106327336">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1703" y="108" width="1592" height="868" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605106327336" />
+    <state width="1771" height="294" key="GridCell.Tab.0.bottom" timestamp="1605106229767">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="294" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605106229767" />
+    <state width="1771" height="294" key="GridCell.Tab.0.center" timestamp="1605106229767">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="294" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605106229767" />
+    <state width="1771" height="294" key="GridCell.Tab.0.left" timestamp="1605106229766">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="294" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605106229766" />
+    <state width="1771" height="294" key="GridCell.Tab.0.right" timestamp="1605106229767">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="294" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605106229767" />
+    <state width="1771" height="362" key="GridCell.Tab.1.bottom" timestamp="1605096343246">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343246" />
+    <state width="1771" height="362" key="GridCell.Tab.1.center" timestamp="1605096343246">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343246" />
+    <state width="1771" height="362" key="GridCell.Tab.1.left" timestamp="1605096343245">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343245" />
+    <state width="1771" height="362" key="GridCell.Tab.1.right" timestamp="1605096343246">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343246" />
+    <state width="1771" height="362" key="GridCell.Tab.2.bottom" timestamp="1605096343247">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.2.bottom/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343247" />
+    <state width="1771" height="362" key="GridCell.Tab.2.center" timestamp="1605096343247">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.2.center/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343247" />
+    <state width="1771" height="362" key="GridCell.Tab.2.left" timestamp="1605096343246">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.2.left/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343246" />
+    <state width="1771" height="362" key="GridCell.Tab.2.right" timestamp="1605096343247">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.2.right/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343247" />
+    <state width="1771" height="362" key="GridCell.Tab.3.bottom" timestamp="1605096343248">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.3.bottom/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343248" />
+    <state width="1771" height="362" key="GridCell.Tab.3.center" timestamp="1605096343247">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.3.center/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343247" />
+    <state width="1771" height="362" key="GridCell.Tab.3.left" timestamp="1605096343247">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.3.left/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343247" />
+    <state width="1771" height="362" key="GridCell.Tab.3.right" timestamp="1605096343248">
+      <screen x="0" y="23" width="1792" height="1068" />
+    </state>
+    <state width="1771" height="362" key="GridCell.Tab.3.right/-1920.23.1920.1057/0.23.1792.1068@0.23.1792.1068" timestamp="1605096343248" />
+  </component>
+</project>

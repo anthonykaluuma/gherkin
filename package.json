@@ -1,0 +1,73 @@
+{
+  "name": "gherkin",
+  "version": "1.0.2",
+  "description": "A parser for the Gherkin syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && istanbul cover node_modules/.bin/_mocha",
+    "codeclimate": "codeclimate-test-reporter < coverage/lcov.info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonykaluuma/gherkin-parser.git"
+  },
+  "keywords": [
+    "gherkin",
+    "syntax",
+    "parser",
+    "feature",
+    "scenario",
+    "given",
+    "when",
+    "then"
+  ],
+  "xo": {
+    "space": 2,
+    "semicolon": true,
+    "globals": [
+      "describe",
+      "before",
+      "beforeEach",
+      "after",
+      "afterEach",
+      "it"
+    ],
+    "rules": {
+      "array-bracket-spacing": [
+        2,
+        "always"
+      ],
+      "brace-style": [
+        2,
+        "stroustrup"
+      ],
+      "max-nested-callbacks": [
+        2,
+        5
+      ],
+      "no-unused-vars": [
+        2,
+        {
+          "argsIgnorePattern": "^_"
+        }
+      ],
+      "space-before-function-paren": [
+        2,
+        "never"
+      ]
+    }
+  },
+  "author": "Emeka Kalu Uma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonykaluuma/gherkin-parser/issues"
+  },
+  "homepage": "https://github.com/anthonykaluuma/gherkin-parser",
+  "devDependencies": {
+    "codeclimate-test-reporter": "^0.3.1",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.5.3",
+    "should": "^9.0.0",
+    "xo": "^0.15.1"
+  }
+}
